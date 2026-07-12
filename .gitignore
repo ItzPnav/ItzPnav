@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except README.md and this .gitignore file
+!README.md
+!.gitignore
+!avi-ascii.svg
+!info-card.svg
+!contrib-heatmap.svg
